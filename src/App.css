@@ -1,0 +1,17 @@
+.main{
+  margin-left: 400px;
+  width: 400px;
+  border: 2px solid black;
+  padding: 10px;
+}
+button{
+  margin-left: 20px;
+  padding: 5px 10px 5px 10px;
+  font-weight: bold;
+  color: black;
+  background-color: aqua;
+  border-radius: 5px;
+}
+p{
+  color:red;
+}
